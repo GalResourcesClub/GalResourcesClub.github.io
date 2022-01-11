@@ -47,3 +47,14 @@ social:
 ga:
     # id: your_ga_id
     # host: your_host
+    
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 435a5d2d8f65641351b0                            #生成的clientID
+  clientSecret: bea1fc274d29b5e812c2a99556cc8076da43ba87    #生成的clientSecret
+  repo: GalResourcesClub.github.io    #仓库名称
+  owner: GalResourcesClub    #github用户名
+  admin: GalResourcesClub
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
