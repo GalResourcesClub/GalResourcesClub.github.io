@@ -1,11 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+title: gal资源部
+subtitle: GalResourcesClub
+welcome_message: <a href="https://github.com/GalResourcesClub/GalResourcesClub.GitHub.io" target="_blank">Download the theme</a>
+description: 欢迎来到gal资源部~.
 creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://vno.onevcat.com"
+url: "GalResourcesClub.GitHub.io"
 
 permalink: /:year/:month/:title/
 
@@ -13,11 +13,11 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: 
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
+    title: GalRC
     description: Visit blog
 
 # Navigation buttons in the front page.
@@ -32,16 +32,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: #
     # duoshuo: 
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: ##
+    github: GalResourcesClub
+    twitter: ##
+    gplus: ##
+    mail: ##
 
 # Google Analytics
 ga:
